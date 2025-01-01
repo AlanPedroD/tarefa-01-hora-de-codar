@@ -1,0 +1,23 @@
+/* CSS */
+.container{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 5px dotted blue;
+}
+
+.row{
+    border: 5px solid purple;
+    height: 100px;
+    padding: 10px;
+    margin: 0;
+}
+
+.col{
+    border: 2px dotted red;
+    height: 100%;
+    margin: 0;
+}
+
+.impar{
+    background-color: aquamarine;
+}
